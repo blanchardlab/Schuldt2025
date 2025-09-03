@@ -1,0 +1,16 @@
+﻿# Ignore big data files
+Data/
+*.rds
+*.rda
+*.RData
+*.h5Seurat
+*.h5ad
+*.loom
+*.bam
+*.mtx
+*.fastq
+
+# Misc
+*.zip
+*.tar.gz
+.DS_Store
